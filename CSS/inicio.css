@@ -1,0 +1,7 @@
+#fondo{
+    width: 874px;
+    height: 581px;
+    background-image: url(../img/PaginaEnConstruccion.png);
+    margin: 20% auto;
+    background-size: cover;
+}
